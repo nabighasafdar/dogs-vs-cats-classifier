@@ -1,4 +1,4 @@
-# Dogs vs Cats Classifier 🐶🐱
+#                   Dogs vs Cats Classifier 🐶🐱
 
 This project implements a Convolutional Neural Network (CNN) to classify images of dogs and cats. 
 The model is trained on the Kaggle Dogs vs Cats dataset and can predict the class of a given image with a confidence score. 
@@ -26,9 +26,11 @@ git clone https://github.com/nabighasafdar/dogs-vs-cats-classifier.git
 ### GUI Interface
 This is the Gradio interface for the Cat vs Dog classifier:
 
-![Gradio GUI](images/gui_screenshot.png)
+![Gradio GUI](images./gui_main.png)
 
-### Sample Predictions
+### Sample Predictions 
 Predictions on a few test images:
 
-![Predictions](images/predictions.png)
+![Predictions](images/Picture1.png)
+
+[Predictions](images/Picture2.png)
