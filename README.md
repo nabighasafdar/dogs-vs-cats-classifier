@@ -22,4 +22,13 @@ It also includes an interactive GUI built using Gradio, allowing users to upload
 ```bash
 git clone https://github.com/nabighasafdar/dogs-vs-cats-classifier.git
 
-<img width="1465" height="838" alt="image" src="https://github.com/user-attachments/assets/c44c9ae8-1bb5-42b1-a77a-f741405c2d18" />
+
+### GUI Interface
+This is the Gradio interface for the Cat vs Dog classifier:
+
+![Gradio GUI](images/gui_screenshot.png)
+
+### Sample Predictions
+Predictions on a few test images:
+
+![Predictions](images/predictions.png)
