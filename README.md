@@ -21,3 +21,5 @@ It also includes an interactive GUI built using Gradio, allowing users to upload
 1. Clone the repository
 ```bash
 git clone https://github.com/nabighasafdar/dogs-vs-cats-classifier.git
+
+<img width="1465" height="838" alt="image" src="https://github.com/user-attachments/assets/c44c9ae8-1bb5-42b1-a77a-f741405c2d18" />
