@@ -20,14 +20,14 @@ It also includes an interactive GUI built using Gradio, allowing users to upload
 ### GUI Interface
 This is the Gradio interface for the Cat vs Dog classifier:
 
-![Gradio GUI](images./GUI_main.png)
+![Gradio GUI](Images./GUI_main.png)
 
 ### Sample Predictions 
 Predictions on a few test images:
 
-![Predictions](images./Picture1.png)
+![Predictions](Images./Picture1.png)
 
-[Predictions](images./Picture2.png)
+[Predictions](Images./Picture2.png)
 
 ## Usage
 1. Clone the repository
