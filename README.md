@@ -27,7 +27,7 @@ Predictions on a few test images:
 
 ![Predictions](Images./Picture1.png)
 
-[Predictions](Images./Picture2.png)
+![Predictions](Images./Picture2.png)
 
 ## Usage
 1. Clone the repository
