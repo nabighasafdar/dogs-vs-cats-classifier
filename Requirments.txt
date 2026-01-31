@@ -1,0 +1,15 @@
+tensorflow>=2.12
+numpy
+pillow
+gradio
+matplotlib
+scikit-learn
+
+Notes:
+
+tensorflow>=2.12    Runs your CNN model.
+numpy               Handles arrays and image preprocessing.
+pillow              Loads and resizes images.
+gradio              For the interactive GUI.
+matplotlib          Optional, for plotting training/validation curves.
+scikit-learn        Optional, useful if you compute metrics like confusion matrix.
