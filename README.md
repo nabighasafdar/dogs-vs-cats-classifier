@@ -1,4 +1,4 @@
-#Dogs vs Cats Classifier 🐶🐱
+# Dogs vs Cats Classifier 🐶🐱
 
 This project implements a Convolutional Neural Network (CNN) to classify images of dogs and cats. 
 The model is trained on the Kaggle Dogs vs Cats dataset and can predict the class of a given image with a confidence score. 
